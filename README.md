@@ -6,7 +6,7 @@ This Laravel project calculates the missing digit in a mathematical equation.
 
 ### Prerequisites
 
-- PHP (version >= 7.x)
+- PHP 
 - Composer
 
 ### Installation
